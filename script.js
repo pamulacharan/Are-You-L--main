@@ -2,7 +2,7 @@ const target = document.getElementById('target');
 let yes = document.getElementById('yes');
 
 yes.addEventListener('click',() => {
-alert("I Love you too jaan mera jaan😘🥰😍");
+alert("Call me jaan mera jaan😘🥰😍❤️");
 })
 function moveTarget(){
     const maxWidth = 400;
